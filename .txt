@@ -1,0 +1,23 @@
+make folder
+open folder in cmd
+run "npm init -y"
+open folder in vs code
+npm i all dependencies
+
+******DAY 1*****
+First we made models (Schemas)
+utils mein mailSender ko configure kiya
+then OTP model mein pre post se mail bhej va ya
+
+*****DAY 2*****
+Models part is done
+Now we will be focusing in controllers
+Auth.js mein code likhna chalo kiya
+
+Then we wrote the code for middleware in auth.js
+Then we wrote the code for ResetPassword controllers
+HAR USER KE PASS EK TOKEN HAI AND KHUD KA EXPIRATION TIME HAI 
+So user model ko change kiya
+
+
+POSTMAN LINK:https://documenter.getpostman.com/view/24441701/2s93kz6REm
